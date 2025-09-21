@@ -1,6 +1,6 @@
 [tools]
 tmux = "3.5"
-vim = "9.1.1006"
+vim = "9.1.1768"
 
 [settings]
 auto_install = false
