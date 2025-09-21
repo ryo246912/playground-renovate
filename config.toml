@@ -1,0 +1,15 @@
+[tools]
+tmux = "3.5"
+vim = "9.1.1006"
+
+[settings]
+auto_install = false
+experimental = true
+gpg_verify = true
+jobs = 1
+
+[settings.npm]
+bun = true
+
+[settings.pipx]
+uvx = true
