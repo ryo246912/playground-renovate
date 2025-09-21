@@ -19,5 +19,9 @@
     "branchTopic": "{{{datasource}}}-{{{depNameSanitized}}}-vulnerability",
     "prCreation": "immediate",
     "vulnerabilityFixStrategy": "lowest"
+  },
+  "mise": {
+    "managerFilePatterns": ["mise/**/*.toml"]
   }
+
 }
