@@ -1,5 +1,5 @@
 [tools]
-tmux = "3.5"
+tmux = "3.8"
 vim = "9.1.1006"
 
 [settings]
